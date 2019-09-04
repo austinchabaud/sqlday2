@@ -1,4 +1,4 @@
-#SQL day 2 (aka sqewl, aka skl, .)
+###SQL day 2 (aka sqewl, aka skl, .)
 
 - Student can add foreign key to new table
 - Student can add foreign key to existing table
